@@ -1,3 +1,12 @@
+'''
+This script generate summation and subtraction with negative numbers problems.
+
+Ex.:
+
+-23 + 4
+-12 - 5
+'''
+
 import random
 
 PROBLEMS_COUNT = 50

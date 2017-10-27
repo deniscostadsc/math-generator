@@ -1,3 +1,19 @@
+'''
+This script generate very simple rule of three problems.
+
+Ex.:
+
+13   X
+-- = ---
+8    64
+
+
+9    36
+-- = ---
+17   X
+
+'''
+
 import random
 
 PROBLEMS_COUNT = 50
